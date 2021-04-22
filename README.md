@@ -22,4 +22,4 @@
     }
     ```
 - DELETE  `/todos/:todoID`
-    > gets all the todos
+    > Deletes a  todo 
